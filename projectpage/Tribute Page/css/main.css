@@ -1,0 +1,66 @@
+body {
+  font-family: Cairo, Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  background-color: rgba(166, 166, 166, 0.75);
+  text-align: left;
+}
+
+h1 {
+  font-family: Exo;
+  font-size: 55px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+h2 {
+  font-family: Ranchers, Arial, Helvetica, sans-serif;
+  
+  font-size: 35px;
+  text-decoration: underline;
+  text-decoration-color: rgb(128, 0, 0);
+  text-decoration-thickness: 5px;
+  text-align: center;
+
+}
+ul{
+  list-style-type: square;
+  
+}
+.awards-books-style {
+  text-align: center;
+  font-size: 27px;
+
+}
+.img-style {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: auto;
+  border: 5px solid rgb(128, 0, 0, 0.705)
+}
+img {
+  max-width: 100%;
+}
+#img-caption {
+  margin: 15px 0 5px 0;
+  text-align: center;
+}
+
+p.a {
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+
+.quote {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(128, 0, 0);
+  
+}
+
+
